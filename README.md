@@ -4,6 +4,6 @@
 
 This node package prints my name to the console every time you run it!
 
-## Installation
+## Usage
 
-Just run ```npm install nate-downey``` and then ```npm run nate-downey```. Or just run ```npx nate-downey``` without needing to install.
+Just run ```npx nate-downey``` in your console to run the script or ```npm install nate-downey``` to install the package.
