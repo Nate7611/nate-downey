@@ -1,0 +1,16 @@
+{
+  "name": "nate-downey",
+  "version": "1.0.0",
+  "description": "Get to know Nate Downey via `npx nate-downey`",
+  "main": "index.js",
+  "bin": {
+    "nate-downey": "./index.js"
+  },
+  "scripts": {
+    "nate-downey": "node index.js"
+  },
+  "keywords": [],
+  "author": "Nate Downey",
+  "license": "MIT",
+  "repository": "https://github.com/Nate7611/natedowney"
+}
