@@ -1,10 +1,10 @@
 {
-  "name": "nate-downey",
+  "name": "natedowney",
   "version": "1.0.0",
-  "description": "Get to know Nate Downey via `npx nate-downey`",
+  "description": "Get to know Nate Downey via `npx natedowney`",
   "main": "index.js",
   "bin": {
-    "nate-downey": "./index.js"
+    "natedowney": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

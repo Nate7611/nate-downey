@@ -1,4 +1,4 @@
-# npx nate-downey
+# npx natedowney
 
 ## What does it do?
 
@@ -6,4 +6,4 @@ This node package prints my name to the console every time you run it!
 
 ## Usage
 
-Just run ```npx nate-downey``` in your console to run the script or ```npm install nate-downey``` to install the package.
+Just run ```npx natedowney``` in your console to run the script or ```npm install natedowney``` to install the package.
