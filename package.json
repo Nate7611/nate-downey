@@ -1,6 +1,6 @@
 {
   "name": "natedowney",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "description": "Get to know Nate Downey via `npx natedowney`",
   "main": "index.js",
   "bin": {
